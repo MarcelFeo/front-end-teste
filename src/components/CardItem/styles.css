@@ -1,0 +1,22 @@
+.container-card {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 15px auto;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    border: 1px solid gray;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.name-container {
+    width: 65%
+}
+
+.price {
+    margin-top: 80px;
+}
